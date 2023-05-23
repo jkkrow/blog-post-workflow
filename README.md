@@ -1,3 +1,5 @@
+### Forked from [here](https://github.com/gautamkrishnar/blog-post-workflow). Tweaked to be compatible with my personal blog website.
+
 # Blog post workflow  [![Build and test](https://github.com/gautamkrishnar/blog-post-workflow/workflows/Build%20and%20test/badge.svg?branch=master)](https://github.com/gautamkrishnar/blog-post-workflow/actions?query=workflow%3A%22Build+and+test%22)
 
 ![preview](https://user-images.githubusercontent.com/8397274/88047382-29b8b280-cb6f-11ea-9efb-2af2b10f3e0c.png)
